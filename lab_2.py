@@ -128,7 +128,7 @@ def main():
     while True:
         command = input("Enter command: ").strip()
         if command.lower() == 'exit':
-            print("Goodbye")
+            print("GOODBUY")
             break
 
         parts = command.split()
